@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="owotranslator",
-    version="0.0.1",
+    version="0.0.2",
     author="Vimal",
     author_email="usvimal@gmail.com",
     description="A package that owoifies your text",
