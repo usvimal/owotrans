@@ -7,6 +7,7 @@ Owotrans is a module that will convert your text to owo
 
 ### Usage
 >import owotrans
+
 >owo('Hello there, General Kenobi')
 
 'Hewwo thewe, Genewaw Kenobi'
