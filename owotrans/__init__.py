@@ -1,1 +1,1 @@
-from owotrans import owo
+from .owotrans import owo
