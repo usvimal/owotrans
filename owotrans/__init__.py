@@ -7,7 +7,7 @@ try:
     # Normalize case for Windows systems
     dist_loc = os.path.normcase(_dist.location)
     here = os.path.normcase(__file__)
-    if not here.startswith(os.path.join(dist_loc, 'owotranslator')):
+    if not here.startswith(os.path.join(dist_loc, 'owotrans')):
         # not installed, but there is another version that *is*
         raise DistributionNotFound
 except DistributionNotFound:
