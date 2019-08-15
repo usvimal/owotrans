@@ -8,7 +8,9 @@ Owotrans is a module that will convert your text to owo
 ### Usage
 >import owotrans
 
->owo('Hello there, General Kenobi')
+>text = owo('Hello there, General Kenobi')
+
+>print(text)
 
 'Hewwo thewe, Genewaw Kenobi'
 
