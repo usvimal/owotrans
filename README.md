@@ -6,7 +6,7 @@ Owotrans is a module that will convert your text to owo
  `pip install owotranslator`
 
 ### Usage
->import owotrans
+>from owotrans import owo
 
 >text = owo('Hello there, General Kenobi')
 
